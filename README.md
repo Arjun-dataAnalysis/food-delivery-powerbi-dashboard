@@ -2,7 +2,7 @@
 
 An end-to-end Power BI project analysing **5,940 food delivery orders** across **8 Indian cities** for 2025. The raw data contained deliberate quality issues, which were cleaned in Power Query, modelled as a star schema and turned into a 5-page interactive dashboard with insights and recommendations.
 
-![Overview](images/1_overview.png)
+![Overview](Images/Overview.png)
 
 ---
 
@@ -81,8 +81,8 @@ Other measures: Avg Order Value, Avg Delivery Time, Avg Rating, Active Customers
 
 | | |
 | --- | --- |
-| ![Demand](images/2_demand.png) | ![Delivery](images/3_delivery.png) |
-| ![Customers](images/4_customers.png) | ![Insights](images/5_insights.png) |
+| ![Demand](Images/Demand.png) | ![Delivery](Images/Delivery.png) |
+| ![Customers](Images/Customers.png) | ![Insights](Images/Insights.png) |
 
 ## Headline KPIs
 | KPI | Value |
@@ -110,15 +110,15 @@ Other measures: Avg Order Value, Avg Delivery Time, Avg Rating, Active Customers
 
 ## Repository structure
 ```
-├── Food_Delivery_Dashboard.pbix
+├── food_delivery.pbix
 ├── Food_Delivery_Orders_2025.xlsx
 ├── Food_Delivery_Dashboard.pdf
-├── images/
-│   ├── 1_overview.png
-│   ├── 2_demand.png
-│   ├── 3_delivery.png
-│   ├── 4_customers.png
-│   └── 5_insights.png
+├── Images/
+│   ├── Overview.png
+│   ├── Demand.png
+│   ├── Delivery.png
+│   ├── Customers.png
+│   └── Insights.png
 └── README.md
 ```
 
