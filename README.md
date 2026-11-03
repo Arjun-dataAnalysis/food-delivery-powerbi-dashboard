@@ -128,4 +128,4 @@ Other measures: Avg Order Value, Avg Delivery Time, Avg Rating, Active Customers
 3. If prompted, point the data source to `Food_Delivery_Orders_2025.xlsx` (Home → Transform data → Data source settings).
 
 ## Author
-**[Your Name]** — [LinkedIn](https://www.linkedin.com/in/your-profile)
+**Arjun Chikane** — [LinkedIn](linkedin.com/in/arjun-chikane-04b879398)
